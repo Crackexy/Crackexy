@@ -1,6 +1,7 @@
-## Hi There...
+# Hi There...
 
-## It's Me Crackexy Here
+## It's Me Crackexy Here 🥰
+
 [![telegram badge](https://img.shields.io/badge/@Crackexy-30302f?style=for-the-badge&logo=telegram)](https://t.me/Crackexy)
 [![mailid badge](https://img.shields.io/badge/Crackexy-30302f?style=for-the-badge&logo=gmail)](https:mailto:Crackexy@gmail.com)
 
