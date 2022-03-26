@@ -10,5 +10,5 @@
 
 ![Crackexy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crackexy&show_icons=true&theme=default&hide=stars)
 
-[![telegram badge](https://img.shields.io/badge/@Crackexy-30302f?style=for-the-badge&logo=telegram)](https://t.me/Crackexy)
+[![telegram badge](https://img.shields.io/badge/Crackexy-30302f?style=for-the-badge&logo=telegram)](https://t.me/Crackexy)
 [![mailid badge](https://img.shields.io/badge/Crackexy-30302f?style=for-the-badge&logo=gmail)](https:mailto:Crackexy@gmail.com)
